@@ -53,3 +53,18 @@ section img {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
+aside {
+  flex: 1;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+footer {
+  text-align: center;
+  font-size: 0.8em;
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  color: #555;
+}
