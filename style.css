@@ -7,21 +7,17 @@ header {
   text-align: center;
   color: blue;
   font-size: 2em; 
-  padding: 20px;
-}
-.section-wrapper {
-  padding:30px;
+  padding: 50px;
 }
  h1 {
   font-size: 1.65em;
   margin: 0;
   background-color: #d9d9d9;
 }
-
 h2 {
   font-size: .8em;
   margin: 10px 0;
-  background-color: #d9d9d9;
+  background-color: #d9d9d9; 
 }
 h3 {
    font-size: .8em;
