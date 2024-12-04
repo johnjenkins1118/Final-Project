@@ -1,3 +1,8 @@
+#Jims-logo {
+  position: relative; 
+  left: 50px; 
+  top: 20px; 
+}
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -73,6 +78,4 @@ footer {
 .logo{
   width:200px;
   height:150px;
-  position: absolute;
-  left: 50%;
 }
