@@ -2,8 +2,15 @@ body {
   font-family: Arial, sans-serif; 
   line-height: 2.5; 
   background-color: #f9f9f9; 
+  position: relative;
 }
-  
+ #logo {
+  position: absolute;
+  height:50px;
+  width:100px;
+  top: 10px;
+  left: 10px;
+} 
 header {
   text-align: center;
   color: blue;
@@ -63,9 +70,4 @@ footer {
   background-color: #0099ff;
   padding: 10px;
   color: black;
-}
-#logo{
-  position: absolute;
-  height:50px;
-  width:100px;
 }
