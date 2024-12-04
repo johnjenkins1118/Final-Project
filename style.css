@@ -2,7 +2,6 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  backround-color: #e6f9ff
 }
 header {
   text-align: center;
@@ -13,11 +12,14 @@ header {
 h1 {
   font-size: 1.65em;
   margin: 0;
+  backround-color: #e6f9ff
 }
 
 h2, h3 {
   font-size: .8em;
   margin: 10px 0;
+  backround-color: #e6f9ff
+
 }
 
 nav {
