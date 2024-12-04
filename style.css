@@ -6,8 +6,7 @@ body {
 }
  #logo {
   position: absolute;
-  height:50px;
-  width:100px;
+  size: smallest;
   top: 10px;
   left: 10px;
 } 
