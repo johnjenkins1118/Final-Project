@@ -12,18 +12,18 @@ header {
 h1 {
   font-size: 1.65em;
   margin: 0;
-  backround-color: #e6f9ff
+  backround-color: #d9d9d9;
 }
 
 h2 {
   font-size: .8em;
   margin: 10px 0;
-  backround-color: #e6f9ff
+  backround-color: #d9d9d9;
 }
 h3 {
    font-size: .8em;
   margin: 10px 0;
-  backround-color: #e6f9ff
+  backround-color: #d9d9d9;
 }
  nav{   
   background-color: grey;
@@ -72,6 +72,6 @@ footer {
   color: blue;
 }
 .logo{
-  width:400px;
-  height:320px;
+  width:250px;
+  height:200px;
 }
