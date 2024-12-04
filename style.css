@@ -24,7 +24,7 @@ h3 {
   margin: 5px 0;
 }
  nav {   
-  backgground-color: #0099ff;
+  background-color: #0099ff;
   text-align: center;
   padding: 10px;
 }
@@ -32,7 +32,6 @@ nav ul {
   list-style: none;
   padding: 20px;
   margin: 10px 0;
-  backround-color: #0099ff;
 }
 nav ul li {
   display: inline;
@@ -58,7 +57,6 @@ footer {
   font-size: 1.5em;
   background-color: #d9d9d9;
   padding: 10px;
-  border-top: 1px solid #ddd;
   color: blue;
 }
 .logo{
