@@ -40,6 +40,7 @@ nav ul li {
 nav ul li a {
   color: black;
   font-size: 1.5em;
+  text-decoration: none;
 }
 .section-wrapper {
   background-color: #d9d9d9;
