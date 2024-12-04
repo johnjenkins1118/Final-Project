@@ -55,15 +55,6 @@ section {
   border-radius: 5px;
   margin-top: -20px;
 }
-
-section img {
-  display: block;
-  margin: 10px auto;
-  max-width: 100%;
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
 aside {
   flex: 1;
   padding: 10px;
