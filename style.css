@@ -66,6 +66,8 @@ footer {
 }
 #logo{
   position: absolute;
-  top:100px;
-  left:75px;
+  top:50px;
+  left:50px;
+  hieght:250px;
+  width:300px;
 }
