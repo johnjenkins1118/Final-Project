@@ -49,23 +49,16 @@ nav ul li a {
   color: black;
   font-size: 1.5em;
 }
-section {
+.content-wrapper {
+  background-color: #d9d9d9; 
+  padding: 20px;
+  border: 1px solid #ccc; /
+  border-radius: 5px; 
+  width: 80%; 
+  margin: 20px auto; 
+  display: flex; 
+  gap: 20px; 
 }
-.section-wrapper {
-  text-align: center;
-  padding: 70px;
-  background-color: #d9d9d9;
-}
-  
-
-aside {
-}
-.section-wrapper1 {
- padding: 70px;
-  background-color: #d9d9d9;
-  text-align: center;
-}
-
 footer {
   text-align: center;
   font-size: 1.5em;
