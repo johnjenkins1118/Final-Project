@@ -12,21 +12,21 @@ header {
 h1 {
   font-size: 1.65em;
   margin: 0;
-  backround-color: #d9d9d9;
+  background-color: #d9d9d9;
 }
 
 h2 {
   font-size: .8em;
   margin: 10px 0;
-  backround-color: #d9d9d9;
+  background-color: #d9d9d9;
 }
 h3 {
    font-size: .8em;
   margin: 10px 0;
-  backround-color: #d9d9d9;
+  background-color: #d9d9d9;
 }
  nav{   
-  background-color: grey;
+  backgground-color: grey;
   text-align: center;
   padding: 10px;
 }
@@ -47,22 +47,22 @@ nav ul li a {
   font-size: 1.5em;
 }
 section {
-  flex: 1;
-  text-align: center;
-  padding: 10px;
-  background-color: #d9d9d9;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  margin-top: -280px;
 }
+.section-wrapper {
+  text-align: center;
+  padding: 50px;
+  background-color: #d9d9d9;
+}
+  
+
 aside {
-  flex: 1;
-  padding: 10px;
+}
+.section-wrapper1 {
+ padding: 50px;
   background-color: #d9d9d9;
-  border: 1px solid #ddd;
-  border-radius: 5px;
   text-align: center;
 }
+
 footer {
   text-align: center;
   font-size: 1.5em;
@@ -74,4 +74,5 @@ footer {
 .logo{
   width:250px;
   height:200px;
+  position: absolute; 
 }
