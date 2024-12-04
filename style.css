@@ -34,6 +34,10 @@ nav ul {
   margin: 10px 0;
   backround-color: #0099ff;
 }
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
 nav ul li a {
   text-decoration: none;
   color: black;
