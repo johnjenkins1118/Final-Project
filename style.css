@@ -27,15 +27,15 @@ h3 {
   margin: 10px 0;
   padding: 20px;
 }
- nav{   
+ nav {   
   backgground-color: #0099ff;
   text-align: center;
   padding: 10px;
 }
 nav ul {
   list-style: none;
-  padding: 0;
-  margin: 0;
+  padding: 20px;
+  margin: 10px 0;
 }
 
 nav ul li {
