@@ -48,6 +48,7 @@ nav ul li a {
   margin: 20px auto; 
   border-radius: 5px; 
   gap: 20px; 
+  text-align: center;
 }
 footer {
   text-align: center;
