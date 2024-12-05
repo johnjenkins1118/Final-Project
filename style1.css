@@ -31,12 +31,6 @@ nav ul li a {
   font-size: 1.5em;
   text-decoration: none;
 }
-.employee-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
-}
 .employee {
     background-color: #DEDED0;
     padding: 20px;
