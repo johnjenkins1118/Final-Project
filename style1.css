@@ -30,3 +30,21 @@ nav ul li a {
   font-size: 1.5em;
   text-decoration: none;
 }
+.employee {
+  display: flex;
+  align-items: center;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 80%;
+}
+
+.employee img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 20px;
+}
