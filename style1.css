@@ -52,5 +52,6 @@ nav ul li a {
 .employee-info {
   display: flex;
   flex-direction: column; 
-  justify-content: center; 
+  justify-content: center;
+  list-style: none;
 }
