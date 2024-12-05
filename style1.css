@@ -39,6 +39,12 @@ nav ul li a {
     border: 1px solid #ddd;
     text-align: center;
 }
+.employee-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
 .employee img {
     width: 150px;
     height: 150px;
