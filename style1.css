@@ -1,58 +1,66 @@
 body {
-  font-family: Arial, sans-serif; 
-  line-height: 2.5; 
-  background-color: #f9f9f9; 
-  font-size: 15px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    text-align: center; 
+    padding: 20px;
 }
 header {
-  text-align: center;
-  color: blue;
-  font-size: 2em; 
-  padding: 50px;
-  background-color: #e6f5ff;
+    background-color: #e6f5ff;
+    padding: 30px 0;
 }
-nav {   
-  background-color: #0099ff;
-  text-align: center;
-  padding: 10px;
+h1 {
+    font-size: 2.5em;
+    color: #0056b3;
+}
+nav {
+    background-color: #0099ff;
+    padding: 15px;
+    margin-bottom: 30px;
 }
 nav ul {
-  list-style: none;
-  padding: 20px;
-  margin: 10px 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 nav ul li {
-  display: inline;
-  margin: 0 15px;
+    display: inline;
+    margin: 0 15px;
 }
 nav ul li a {
-  color: black;
-  font-size: 1.5em;
-  text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+.employee-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 .employee {
-  display: flex;
-  flex-direction: column;
-  margin: 20px auto;
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  background-color: #DEDED0;
-  width: 80%;
-  text-align: center;
-  list-style: none;
+    background-color: #ffffff;
+    margin: 20px;
+    padding: 20px;
+    width: 250px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+.employee img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 15px;
 }
 
-.employee img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
-  margin-right: 20px;
+.employee-info h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
 }
-.employee-info {
-  list-style: none;
-  text-align: center;
-  padding: 0;
-  margin: 0;
+.employee-info ul {
+    list-style: none;
+    padding: 0;
+}
+.employee-info li {
+    margin-bottom: 8px;
 }
