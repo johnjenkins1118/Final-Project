@@ -4,12 +4,6 @@ body {
   background-color: #f9f9f9; 
   position: relative;
 }
- #logo {
-  position: absolute;
-  size: smallest;
-  top: 10px;
-  left: 10px;
-} 
 header {
   text-align: center;
   color: blue;
