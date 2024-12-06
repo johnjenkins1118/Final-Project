@@ -34,7 +34,7 @@ nav ul li a {
 .employee {
     background-color: #DEDED0;
     padding: 20px;
-    width: 350px;
+    width: 400px;
     border-radius: 10px;
     border: 1px solid #ddd;
     text-align: center;
@@ -43,7 +43,7 @@ nav ul li a {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 50px;
+    gap: 30px;
 }
 .employee img {
     width: 150px;
