@@ -5,7 +5,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
 header {
     background-color: #e6f5ff;
     padding: 20px 0;
@@ -16,7 +15,25 @@ h1 {
     font-size: 2.5em;
     color: #0056b3;
 }
-
+nav {   
+  background-color: #0099ff;
+  text-align: center;
+  padding: 10px;
+}
+nav ul {
+  list-style: none;
+  padding: 20px;
+  margin: 10px 0;
+}
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+nav ul li a {
+  color: black;
+  font-size: 1.5em;
+  text-decoration: none;
+}
 .menu-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
