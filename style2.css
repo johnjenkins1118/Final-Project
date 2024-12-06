@@ -54,7 +54,11 @@ nav ul li a {
     height: 380px;
     border-radius: 8px;
 }
-
+.product h2 {
+    margin: 10px;
+    font-size: 1.8em;
+    color: #333;
+}
 .product h3 {
     margin: 10px;
     font-size: 1.2em;
