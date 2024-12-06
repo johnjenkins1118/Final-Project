@@ -48,7 +48,6 @@ nav ul li a {
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .product img {
@@ -58,7 +57,7 @@ nav ul li a {
 }
 
 .product h3 {
-    margin: 10px 0 0;
+    margin: 10px;
     font-size: 1.2em;
     color: #333;
 }
