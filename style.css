@@ -51,14 +51,12 @@ nav ul li {
 nav ul li a {
   color: black;
   font-size: 1.5em;
-  text-decoration: none;
 }
 .section-wrapper {
   background-color: #DEDED0;
   padding: 20px; 
-  margin: 20px auto; 
+  margin: 20px ; 
   border-radius: 5px; 
-  gap: 20px; 
   text-align: center;
 }
 footer {
