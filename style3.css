@@ -50,6 +50,7 @@ nav ul li a {
 }
 .section ul {
     padding-left: 20px;
+    list-style: none;
 }
 .section ul li {
     margin-bottom: 8px;
