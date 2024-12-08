@@ -51,11 +51,6 @@ nav ul li a {
   color: black;
   font-size: 1.5em;
 }
-#jims-image {
-  float: left;
-  height: 200px
-  widht: 150 px;
-}
 .section-wrapper {
   background-color: #DEDED0;
   padding: 20px; 
