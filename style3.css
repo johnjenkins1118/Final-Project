@@ -47,7 +47,7 @@ nav ul li a {
     padding: 30px;
     margin-bottom: 20px;
     border-radius: 5px;
-    text-align: left; 
+    text-align: center; 
     font-size: 1.2em;
     width: 100%;
     box-sizing: border-box;
@@ -55,7 +55,7 @@ nav ul li a {
 .section h2 {
     margin-top: 0;
     color: #0056b3; 
-    font-size: 2em;
+    font-size: 1.7em;
     margin-bottom: 15px;
 }
 .section p {
@@ -63,24 +63,10 @@ nav ul li a {
 }
 .section ul {
     padding-left: 20px;
-    list-style: disc;
-    margin: 15px 0;
+    list-style: none;
+    margin: 15px ;
 }
 .section ul li {
     margin-bottom: 8px;
 }
     .section {
-        width: 48%; 
-        display: inline-block;
-        margin-right: 4%;
-    }
-    .section:nth-child(2n) {
-        margin-right: 0;
-    }
-footer {
-    background-color: #e6f5ff;
-    padding: 10px 0;
-    text-align: center;
-    margin-top: 30px;
-    color: #0056b3;
-}
