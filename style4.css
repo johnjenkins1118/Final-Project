@@ -35,7 +35,6 @@ nav ul li {
 nav ul li a {
   color: black;
   font-size: 1.5em;
-  text-decoration: underline;
 }
 h2 {
     color: #0056b3;
@@ -53,7 +52,6 @@ p {
 }
 a {
     color: #0056b3;
-    text-decoration: none;
 }
 a:hover {
     text-decoration: underline;
