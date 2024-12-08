@@ -36,9 +36,10 @@ nav ul li a {
   font-size: 1.5em;
 }
 .container {
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
+    backround-color: #DEDED0;
 }
 
 section {
