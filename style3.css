@@ -63,10 +63,10 @@ nav ul li a {
 }
 .section ul {
     padding-left: 20px;
-    list-style: none;
+    list-style: disc;
     margin: 15px ;
 }
 .section ul li {
     margin-bottom: 8px;
 }
-    .section {
+
