@@ -44,13 +44,14 @@ nav ul li a {
 }
 .section {
     background-color: #DEDED0; 
-    padding: 30px;
+    padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
     text-align: center; 
     font-size: 1.2em;
-    width: 100%;
+    width: 90%;
     box-sizing: border-box;
+    max-width: 1000px;
 }
 .section h2 {
     margin-top: 0;
