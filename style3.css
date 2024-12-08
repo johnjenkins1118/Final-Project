@@ -1,18 +1,21 @@
 body {
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    text-align: center;
     background-color: #dfe8eb;
 }
 header {
     background-color: #e6f5ff;
     padding: 20px 0;
-    margin-bottom: 20px;
 }
 h1 {
     font-size: 2.5em;
     color: #0056b3;
-    text-align: center;
+}
+nav {
+    background-color: #0099ff;
+    padding: 10px;
 }
 nav {   
   background-color: #0099ff;
@@ -32,27 +35,52 @@ nav ul li a {
   color: black;
   font-size: 1.5em;
 }
+
 .container {
-    max-width: 1000px;
-    margin: 20px auto;
+    max-width: 100%; 
+    margin: 0;
     padding: 20px;
+    box-sizing: border-box;
 }
 .section {
-    background: #DEDED0;
+    background-color: #DEDED0; 
     padding: 30px;
     margin-bottom: 20px;
     border-radius: 5px;
-    text-align: center;
-    font-size: 1.5em;
+    text-align: left; 
+    font-size: 1.2em;
+    width: 100%;
+    box-sizing: border-box;
 }
 .section h2 {
     margin-top: 0;
-    color: #0056b3;
+    color: #0056b3; 
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+.section p {
+    margin: 10px 0;
 }
 .section ul {
     padding-left: 20px;
-    list-style: none;
+    list-style: disc;
+    margin: 15px 0;
 }
 .section ul li {
     margin-bottom: 8px;
+}
+    .section {
+        width: 48%; 
+        display: inline-block;
+        margin-right: 4%;
+    }
+    .section:nth-child(2n) {
+        margin-right: 0;
+    }
+footer {
+    background-color: #e6f5ff;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 30px;
+    color: #0056b3;
 }
