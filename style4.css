@@ -38,6 +38,7 @@ nav ul li a {
 h2 {
     color: #0056b3;
     margin-top: 20px;
+    font-size: 2em;
 }
 
 iframe {
@@ -46,7 +47,7 @@ iframe {
     margin: 20px 0;
 }
 p {
-    font-size: 2em;
+    font-size: 1.5em;
     margin: 5px 0;
 }
 a {
