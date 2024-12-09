@@ -49,6 +49,8 @@ nav ul li a {
     font-size: 1.2em;
     max-width: 600px;
     box-sizing: border-box;
+    padding: 20px;
+    margin: 20px auto;
 }
 .section h2 {
     margin-top: 0;
