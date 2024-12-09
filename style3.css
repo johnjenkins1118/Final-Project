@@ -39,13 +39,12 @@ nav ul li a {
 .container {
     max-width: 100%; 
     margin: 0;
-    padding: 20px;
     box-sizing: border-box;
 }
 .section {
     background-color: #DEDED0; 
     margin-bottom: 20px;
-    border-radius: 25px;
+    border-radius: 45px;
     text-align: center; 
     font-size: 1.2em;
     width: 100%;
