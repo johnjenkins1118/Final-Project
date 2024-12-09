@@ -46,9 +46,8 @@ nav ul li a {
     background-color: #DEDED0; 
     border-radius: 45px;
     font-size: 1.2em;
-    max-width: 900px;
+    max-width: 1030px;
     box-sizing: border-box;
-    padding: 20px;
     margin: 20px auto;
 }
 .section h2 {
